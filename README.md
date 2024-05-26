@@ -1,5 +1,9 @@
 # Chronical Venture Web Development Assignment
 
+Website live :- https://cvassignmentbyadityadwivedi.netlify.app/
+
+![WEB DEV ASSIGNMENT](./Screenshot1.png)
+
 This project is a web development assignment given by Chronical Venture. It showcases various aspects of responsive web design and frontend development using HTML, CSS, and Tailwind CSS. The project demonstrates the ability to create a visually appealing and user-friendly interface that adapts seamlessly across different devices.
 
 ## Project Overview
